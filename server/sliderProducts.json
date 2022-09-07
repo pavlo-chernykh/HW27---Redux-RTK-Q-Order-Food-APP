@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Chicken cashew",
+    "price": 14,
+    "category": "chicken-dishes",
+    "image": "chicken_cashew.png",
+    "id": "chicken-cashew",
+    "nuts": true,
+    "vegeterian": false,
+    "spiciness": 1
+  },
+  {
+    "name": "Chicken springrolls",
+    "price": 6.5,
+    "category": "bits-and-bites",
+    "image": "chicken_loempias.png",
+    "id": "chicken-springrolls",
+    "nuts": false,
+    "vegeterian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Penang shrimp",
+    "price": 16,
+    "category": "seafood-dishes",
+    "image": "penang_shrimp.png",
+    "id": "penang_shrimp",
+    "nuts": true,
+    "vegeterian": false,
+    "spiciness": 4
+  },
+  {
+    "name": "Red curry veggies",
+    "price": 12.5,
+    "category": "vegetable-dishes",
+    "image": "red_curry_vega.png",
+    "id": "red-curry-veggies",
+    "nuts": false,
+    "vegeterian": true,
+    "spiciness": 4
+  }
+]

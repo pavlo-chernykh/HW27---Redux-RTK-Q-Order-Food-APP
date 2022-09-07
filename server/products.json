@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Laab kai chicken salad",
+    "price": 10,
+    "category": "Salads",
+    "image": "laab_kai_chicken_salad.png",
+    "id": "laab-kai-chicken-salad",
+    "nuts": true,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Som tam papaya salad",
+    "price": 9.5,
+    "category": "Salads",
+    "image": "som_tam_papaya_salad.png",
+    "id": "som-tam-papaya-salad",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 0
+  },
+  {
+    "name": "Tom yam kai",
+    "price": 7,
+    "category": "Soups",
+    "image": "tom_yam.png",
+    "id": "tom-yam-kai",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 3
+  },
+  {
+    "name": "Tom kha kai",
+    "price": 7,
+    "category": "Soups",
+    "image": "tom_kha.png",
+    "id": "tom-kha-kai",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 3
+  },
+  {
+    "name": "Tom kha koong",
+    "price": 8,
+    "category": "Soups",
+    "image": "tom_kha.png",
+    "id": "tom-kha-koong",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Tom yam koong",
+    "price": 8,
+    "category": "Soups",
+    "image": "tom_yam.png",
+    "id": "tom-yam-koong",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 4
+  },
+  {
+    "name": "Tom yam vegetarian",
+    "price": 7,
+    "category": "Soups",
+    "image": "tom_yam.png",
+    "id": "tom-yam-vegetarian",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 1
+  },
+  {
+    "name": "Tom kha vegetarian",
+    "price": 7,
+    "category": "Soups",
+    "image": "tom_kha.png",
+    "id": "tom-kha-vegetarian",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 1
+  },
+  {
+    "name": "Sweet 'n sour chicken",
+    "price": 14,
+    "category": "Chicken dishes",
+    "image": "sweet_n_sour.png",
+    "id": "sweet-n-sour-chicken",
+    "nuts": true,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Chicken cashew",
+    "price": 14,
+    "category": "Chicken dishes",
+    "image": "chicken_cashew.png",
+    "id": "chicken-cashew",
+    "nuts": true,
+    "vegetarian": false,
+    "spiciness": 1
+  },
+  {
+    "name": "Beef massaman",
+    "price": 14.5,
+    "category": "Beef dishes",
+    "image": "beef_massaman.png",
+    "id": "beef-massaman",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Seafood chu chee",
+    "price": 16,
+    "category": "Seafood dishes",
+    "image": "chu_chee.png",
+    "id": "seafood-chu-chee",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Penang shrimp",
+    "price": 16,
+    "category": "Seafood dishes",
+    "image": "penang_shrimp.png",
+    "id": "penang-shrimp",
+    "nuts": true,
+    "vegetarian": false,
+    "spiciness": 4
+  },
+  {
+    "name": "Green curry veggies",
+    "price": 12.5,
+    "category": "Vegetable dishes",
+    "image": "green_curry.png",
+    "id": "green-curry-veggies",
+    "nuts": true,
+    "vegetarian": true,
+    "spiciness": 0
+  },
+  {
+    "name": "Tofu cashew",
+    "price": 12.5,
+    "category": "Vegetable dishes",
+    "image": "tofu_cashew.png",
+    "id": "tofu-cashew",
+    "nuts": true,
+    "vegetarian": true,
+    "spiciness": 0
+  },
+  {
+    "name": "Red curry veggies",
+    "price": 12.5,
+    "category": "Vegetable dishes",
+    "image": "red_curry_vega.png",
+    "id": "red-curry-veggies",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 4
+  },
+  {
+    "name": "Krapau tofu",
+    "price": 12.5,
+    "category": "Vegetable dishes",
+    "image": "krapau_vega.png",
+    "id": "krapau-tofu",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 0
+  },
+  {
+    "name": "Prawn crackers",
+    "price": 2.5,
+    "category": "Bits and bites",
+    "image": "kroepoek.png",
+    "id": "prawn-crackers",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 1
+  },
+  {
+    "name": "Fish cakes",
+    "price": 6.5,
+    "category": "Bits and bites",
+    "image": "fish_cakes.png",
+    "id": "fish-cakes",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 1
+  },
+  {
+    "name": "Chicken satay",
+    "price": 6.5,
+    "category": "Bits and bites",
+    "image": "sate.png",
+    "id": "chicken-satay",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 1
+  },
+  {
+    "name": "Satay sauce",
+    "price": 1.5,
+    "category": "Bits and bites",
+    "image": "satesaus.png",
+    "id": "satay-sauce",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Shrimp springrolls",
+    "price": 6.5,
+    "category": "Bits and bites",
+    "image": "koong_hom_pha.png",
+    "id": "shrimp-springrolls",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 3
+  },
+  {
+    "name": "Mini vegetarian spring rolls",
+    "price": 6.5,
+    "category": "Bits and bites",
+    "image": "mini_vega_springrolls.png",
+    "id": "mini-vegetarian-spring-rolls",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Chicken springrolls",
+    "price": 6.5,
+    "category": "Bits and bites",
+    "image": "chicken_loempias.png",
+    "id": "chicken-springrolls",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Thai fried rice",
+    "price": 7.5,
+    "category": "On the side",
+    "image": "fried_rice.png",
+    "id": "thai-fried-rice",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 2
+  },
+  {
+    "name": "Fresh prawn crackers",
+    "price": 2.5,
+    "category": "On the side",
+    "image": "kroepoek.png",
+    "id": "fresh-prawn-crackers",
+    "nuts": false,
+    "vegetarian": false,
+    "spiciness": 1
+  },
+  {
+    "name": "Stir fried vegetables",
+    "price": 7.5,
+    "category": "On the side",
+    "image": "stir_fried_vegetables.png",
+    "id": "stir-fried-vegetables",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 0
+  },
+  {
+    "name": "White rice",
+    "price": 1.5,
+    "category": "On the side",
+    "image": "witte_rijst.png",
+    "id": "white-rice",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 0
+  },
+  {
+    "name": "Fried noodles Thai style",
+    "price": 7.5,
+    "category": "On the side",
+    "image": "fried_noodles.png",
+    "id": "fried-noodles-thai-style",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 2
+  },
+  {
+    "name": "King salad",
+    "price": 7.5,
+    "category": "On the side",
+    "image": "king_salad.png",
+    "id": "king-salad",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 2
+  },
+  {
+    "name": "Satésaus",
+    "price": 1.5,
+    "category": "On the side",
+    "image": "satesaus.png",
+    "id": "sat-saus",
+    "nuts": false,
+    "vegetarian": true,
+    "spiciness": 2
+  }
+]
